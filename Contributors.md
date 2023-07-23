@@ -61,6 +61,7 @@
 - [Eric Obeng](https://github.com/Eric-Obeng)
 - [Jing Cao](https://github.com/peoplemakeculture)
 - [Maria Clara Rocha](https://github.com/mariaclararcs)
+- [Koushik K.S](https://github.com/theaspiringdev10/)
 - [Produnya(PD)] (https://github.com/PDgaming)
 - [Aman Sayyad](https://github.com/amansayyad2003)
 - [Monyuy Divine](https://github.com/divinebootable)
